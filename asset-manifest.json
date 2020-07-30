@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shalini06mittal/ReactCharactersProject/static/css/main.f52da16c.chunk.css",
-    "main.js": "/shalini06mittal/ReactCharactersProject/static/js/main.34417edf.chunk.js",
-    "main.js.map": "/shalini06mittal/ReactCharactersProject/static/js/main.34417edf.chunk.js.map",
-    "runtime-main.js": "/shalini06mittal/ReactCharactersProject/static/js/runtime-main.4f0e377c.js",
-    "runtime-main.js.map": "/shalini06mittal/ReactCharactersProject/static/js/runtime-main.4f0e377c.js.map",
-    "static/js/2.2799091e.chunk.js": "/shalini06mittal/ReactCharactersProject/static/js/2.2799091e.chunk.js",
-    "static/js/2.2799091e.chunk.js.map": "/shalini06mittal/ReactCharactersProject/static/js/2.2799091e.chunk.js.map",
-    "index.html": "/shalini06mittal/ReactCharactersProject/index.html",
-    "precache-manifest.5a135d6f1499cdd0fd5b2ae851764d14.js": "/shalini06mittal/ReactCharactersProject/precache-manifest.5a135d6f1499cdd0fd5b2ae851764d14.js",
-    "service-worker.js": "/shalini06mittal/ReactCharactersProject/service-worker.js",
-    "static/css/main.f52da16c.chunk.css.map": "/shalini06mittal/ReactCharactersProject/static/css/main.f52da16c.chunk.css.map",
-    "static/js/2.2799091e.chunk.js.LICENSE.txt": "/shalini06mittal/ReactCharactersProject/static/js/2.2799091e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/shalini06mittal/ReactCharactersProject/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ReactCharactersProject/static/css/main.f52da16c.chunk.css",
+    "main.js": "/ReactCharactersProject/static/js/main.8856470c.chunk.js",
+    "main.js.map": "/ReactCharactersProject/static/js/main.8856470c.chunk.js.map",
+    "runtime-main.js": "/ReactCharactersProject/static/js/runtime-main.d61fc2cb.js",
+    "runtime-main.js.map": "/ReactCharactersProject/static/js/runtime-main.d61fc2cb.js.map",
+    "static/js/2.2799091e.chunk.js": "/ReactCharactersProject/static/js/2.2799091e.chunk.js",
+    "static/js/2.2799091e.chunk.js.map": "/ReactCharactersProject/static/js/2.2799091e.chunk.js.map",
+    "index.html": "/ReactCharactersProject/index.html",
+    "precache-manifest.91272ee8ea5f4b38f2e6e07c5935969c.js": "/ReactCharactersProject/precache-manifest.91272ee8ea5f4b38f2e6e07c5935969c.js",
+    "service-worker.js": "/ReactCharactersProject/service-worker.js",
+    "static/css/main.f52da16c.chunk.css.map": "/ReactCharactersProject/static/css/main.f52da16c.chunk.css.map",
+    "static/js/2.2799091e.chunk.js.LICENSE.txt": "/ReactCharactersProject/static/js/2.2799091e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactCharactersProject/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f0e377c.js",
+    "static/js/runtime-main.d61fc2cb.js",
     "static/js/2.2799091e.chunk.js",
     "static/css/main.f52da16c.chunk.css",
-    "static/js/main.34417edf.chunk.js"
+    "static/js/main.8856470c.chunk.js"
   ]
 }
