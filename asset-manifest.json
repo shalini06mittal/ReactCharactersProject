@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactCharactersProject/static/css/main.f52da16c.chunk.css",
-    "main.js": "/ReactCharactersProject/static/js/main.8856470c.chunk.js",
-    "main.js.map": "/ReactCharactersProject/static/js/main.8856470c.chunk.js.map",
+    "main.js": "/ReactCharactersProject/static/js/main.9f7c9787.chunk.js",
+    "main.js.map": "/ReactCharactersProject/static/js/main.9f7c9787.chunk.js.map",
     "runtime-main.js": "/ReactCharactersProject/static/js/runtime-main.d61fc2cb.js",
     "runtime-main.js.map": "/ReactCharactersProject/static/js/runtime-main.d61fc2cb.js.map",
     "static/js/2.2799091e.chunk.js": "/ReactCharactersProject/static/js/2.2799091e.chunk.js",
     "static/js/2.2799091e.chunk.js.map": "/ReactCharactersProject/static/js/2.2799091e.chunk.js.map",
     "index.html": "/ReactCharactersProject/index.html",
-    "precache-manifest.91272ee8ea5f4b38f2e6e07c5935969c.js": "/ReactCharactersProject/precache-manifest.91272ee8ea5f4b38f2e6e07c5935969c.js",
+    "precache-manifest.53fd94508c2b8e52e563efe5ab26ea59.js": "/ReactCharactersProject/precache-manifest.53fd94508c2b8e52e563efe5ab26ea59.js",
     "service-worker.js": "/ReactCharactersProject/service-worker.js",
     "static/css/main.f52da16c.chunk.css.map": "/ReactCharactersProject/static/css/main.f52da16c.chunk.css.map",
     "static/js/2.2799091e.chunk.js.LICENSE.txt": "/ReactCharactersProject/static/js/2.2799091e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d61fc2cb.js",
     "static/js/2.2799091e.chunk.js",
     "static/css/main.f52da16c.chunk.css",
-    "static/js/main.8856470c.chunk.js"
+    "static/js/main.9f7c9787.chunk.js"
   ]
 }
